@@ -37,11 +37,12 @@ After configuring a new department we will set up a new team. Teams allow you to
 
 </p>
 <p>
-Now that we have set up a new team we will create a new setting that will allow anyone to create tickets. Admin Panel->Settings->User Settings.
+Now that we have set up a new team, we will create a new setting that will allow anyone to create tickets. Go to Admin Panel->Settings->User Settings. Under authentication settings, make sure the box that says require registration and login to create tickets is unchecked.
 
 </p>
 <br />
-<img src="https://i.imgur.com/H1q2Fdh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="959" height="710" alt="Screenshot 2026-01-30 at 2 57 01 PM" src="https://github.com/user-attachments/assets/af6499da-dc02-489d-8c24-e1c2f32925cd" />
+
 </p>
 <p>
 Now we are going to create Agents. Agents are the employees of the helpdesk that actually work on solving tickets. Agents are assigned primary departments and given a primary role for tickets sent to their department. Agents can be given access to other departments other than their own, they can also have different roles depending on which department they are in. Permissions, Access, & Teams are be assigned in the Agents tab. 
