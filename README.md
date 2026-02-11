@@ -93,45 +93,28 @@ Under the "Teams" tab select "Online Banking" for this agent:
 </p>
 <p>
 Create one more agent, in the "Access" tab select "support" and "view only":
+</p><img width="967" height="750" alt="Screenshot 2026-02-10 at 8 38 34 PM" src="https://github.com/user-attachments/assets/a8310b80-959d-48e3-aebf-076b430d502c" />
+</p><img width="966" height="581" alt="Screenshot 2026-02-10 at 8 29 21 PM" src="https://github.com/user-attachments/assets/fe15147e-300c-45a6-8db4-38438e876cae" />
+
+
+
+<p>
+Next, to create a user (the customers) switch to the "Agent Panel" in orange in the top right> Users> Add User and put an email and name, then create. (I also made one more user with the same steps taken here):
 </p>
-<img width="966" height="581" alt="Screenshot 2026-02-10 at 8 29 21 PM" src="https://github.com/user-attachments/assets/fe15147e-300c-45a6-8db4-38438e876cae" />
+<img width="1315" height="588" alt="Screenshot 2026-02-10 at 8 45 28 PM" src="https://github.com/user-attachments/assets/146c3a03-6a4a-46b5-9fff-36e119dc3279" />
 
 
 </p>
 <p>
-Now we are going to configure help topics, for when users create a ticket. In the example below we have made a help topic for "Business Critical Outage" for example this can be if customers cannot access mobile banking. 
+Configuring an SLA plan navigate back to Admin Panel> Manage> SLA create three SLAs with different severities, grace periods, and schedules like so:
 </p>
-<br />
-<img width="961" height="661" alt="Screenshot 2026-01-30 at 3 41 09 PM" src="https://github.com/user-attachments/assets/25977f4a-f99c-4ebe-8b5a-a08c08ba56d3" />
+<img width="961" height="665" alt="Screenshot 2026-02-10 at 8 49 40 PM" src="https://github.com/user-attachments/assets/62134dfe-c0fe-4393-9add-2f96d1349848" /></p><img width="961" height="664" alt="Screenshot 2026-02-10 at 8 51 36 PM" src="https://github.com/user-attachments/assets/a45862fc-77f0-4ddc-8f0c-cf370bc3e4d3" /></p><img width="958" height="664" alt="Screenshot 2026-02-10 at 8 53 14 PM" src="https://github.com/user-attachments/assets/bb9bd2f8-b2d4-41f1-bb65-b0309ede0284" />
 
 
-</p>
-<p>
-Now we are going to configure help topics, for when users create a ticket. In the example below we have made a help topic for "Business Critical Outage" for example this can be if customers cannot access mobile banking. 
-</p>
-<br />
-<img width="961" height="661" alt="Screenshot 2026-01-30 at 3 41 09 PM" src="https://github.com/user-attachments/assets/25977f4a-f99c-4ebe-8b5a-a08c08ba56d3" />
+
 
 
 </p>
 <p>
-Now we are going to configure help topics, for when users create a ticket. In the example below we have made a help topic for "Business Critical Outage" for example this can be if customers cannot access mobile banking. 
-</p>
-<br />
-<img width="961" height="661" alt="Screenshot 2026-01-30 at 3 41 09 PM" src="https://github.com/user-attachments/assets/25977f4a-f99c-4ebe-8b5a-a08c08ba56d3" />
+Under the same "Manage" tab go to the "Help Topics" tab and create four help topics named, "Business Critical Outage", "Personal Computer Issues", "Equipment Request", and "Password Reset" all with the same settings like so:</p><img width="956" height="629" alt="Screenshot 2026-02-10 at 9 12 53 PM" src="https://github.com/user-attachments/assets/5e88364c-f66a-46bd-8d7e-a923ed331fe3" />
 
-
-</p>
-<p>
-Now we are going to configure help topics, for when users create a ticket. In the example below we have made a help topic for "Business Critical Outage" for example this can be if customers cannot access mobile banking. 
-</p>
-<br />
-<img width="961" height="661" alt="Screenshot 2026-01-30 at 3 41 09 PM" src="https://github.com/user-attachments/assets/25977f4a-f99c-4ebe-8b5a-a08c08ba56d3" />
-
-
-</p>
-<p>
-Now we are going to configure help topics, for when users create a ticket. In the example below we have made a help topic for "Business Critical Outage" for example this can be if customers cannot access mobile banking. 
-</p>
-<br />
-<img width="961" height="661" alt="Screenshot 2026-01-30 at 3 41 09 PM" src="https://github.com/user-attachments/assets/25977f4a-f99c-4ebe-8b5a-a08c08ba56d3" />
