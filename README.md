@@ -61,15 +61,40 @@ Now, to allow anyone to create tickets, go to the "Settings" Tab, and under "Aut
 <p>
 To create agents (the help desk workers) navigate back to the "Agents" tab and select "Agents" and fill out the name, email, and username:
 </p>
-<br />
-<img width="959" height="372" alt="Screenshot 2026-01-30 at 3 29 25 PM" src="https://github.com/user-attachments/assets/89d57047-ad1f-4703-aa5a-4f737f1a3c5f" />
+<img width="963" height="754" alt="Screenshot 2026-02-10 at 7 41 00 PM" src="https://github.com/user-attachments/assets/be5cd8d1-fb72-4e8a-8d77-487d26507c48" />
+
 
 </p>
 <p>
-SLAs Plans provide a length of time in which the help desk is expected to take in order to solve a specific ticket. SLA Plans are created by going to Admin Panel->Manage->SLA Plans. Each SLA has a schedule and within that schedule there is a grace period. In this example SEV-A has a 24/7 and a one hour grace period. 
+Next to the username click "Set Password" set the password. Uncheck the "Send the agent a password reset email" and "Require password change at next login" options: 
+</p>
+<img width="961" height="744" alt="Screenshot 2026-02-10 at 7 59 27 PM" src="https://github.com/user-attachments/assets/9d1e7350-a2c7-4e42-9a3f-94cc281f869b" />
+
+</p>
+<p>
+On the "Access" tab for this user select the "System Administrators" department and the "Supreme Admin" role created earlier: 
 </p>
 <br />
-<img width="961" height="692" alt="Screenshot 2026-01-30 at 3 33 57 PM" src="https://github.com/user-attachments/assets/9d15afff-84a8-4209-89a5-0aa318973540" />
+<img width="963" height="582" alt="Screenshot 2026-02-10 at 8 11 16 PM" src="https://github.com/user-attachments/assets/51acd21c-6f79-4737-9bf2-764bc2d404f9" />
+
+
+
+</p>
+<p>
+
+
+</p>
+<p>
+Under the "Teams" tab select "Online Banking" for this agent:
+</p>
+<img width="960" height="473" alt="Screenshot 2026-02-10 at 8 08 17 PM" src="https://github.com/user-attachments/assets/da51d959-341c-4781-99c7-bbec0d56baea" />
+
+
+</p>
+<p>
+Create one more agent, in the "Access" tab select "support" and "view only":
+</p>
+<img width="966" height="581" alt="Screenshot 2026-02-10 at 8 29 21 PM" src="https://github.com/user-attachments/assets/fe15147e-300c-45a6-8db4-38438e876cae" />
 
 
 </p>
@@ -79,5 +104,34 @@ Now we are going to configure help topics, for when users create a ticket. In th
 <br />
 <img width="961" height="661" alt="Screenshot 2026-01-30 at 3 41 09 PM" src="https://github.com/user-attachments/assets/25977f4a-f99c-4ebe-8b5a-a08c08ba56d3" />
 
+
 </p>
 <p>
+Now we are going to configure help topics, for when users create a ticket. In the example below we have made a help topic for "Business Critical Outage" for example this can be if customers cannot access mobile banking. 
+</p>
+<br />
+<img width="961" height="661" alt="Screenshot 2026-01-30 at 3 41 09 PM" src="https://github.com/user-attachments/assets/25977f4a-f99c-4ebe-8b5a-a08c08ba56d3" />
+
+
+</p>
+<p>
+Now we are going to configure help topics, for when users create a ticket. In the example below we have made a help topic for "Business Critical Outage" for example this can be if customers cannot access mobile banking. 
+</p>
+<br />
+<img width="961" height="661" alt="Screenshot 2026-01-30 at 3 41 09 PM" src="https://github.com/user-attachments/assets/25977f4a-f99c-4ebe-8b5a-a08c08ba56d3" />
+
+
+</p>
+<p>
+Now we are going to configure help topics, for when users create a ticket. In the example below we have made a help topic for "Business Critical Outage" for example this can be if customers cannot access mobile banking. 
+</p>
+<br />
+<img width="961" height="661" alt="Screenshot 2026-01-30 at 3 41 09 PM" src="https://github.com/user-attachments/assets/25977f4a-f99c-4ebe-8b5a-a08c08ba56d3" />
+
+
+</p>
+<p>
+Now we are going to configure help topics, for when users create a ticket. In the example below we have made a help topic for "Business Critical Outage" for example this can be if customers cannot access mobile banking. 
+</p>
+<br />
+<img width="961" height="661" alt="Screenshot 2026-01-30 at 3 41 09 PM" src="https://github.com/user-attachments/assets/25977f4a-f99c-4ebe-8b5a-a08c08ba56d3" />
