@@ -22,43 +22,44 @@ This project focuses on configuring osTicket, so it can be used properly as a ti
 </p><h2>Operating Systems Used </h2>
 
 - <b>Windows 10</b>
-
-</p>
+<h2>Project Walk-through:</h2>
+</p>With osTicket open navigate to the Admin Panel by clicking "Admin Panel" located in orange at the top right of the page:
 <br />
 <p>
 </p>
 <p>
-Select the "Departments" button in the agents tab. Here we will be able to create a new department. Each Agent is assigned to a specific department depending on their assigned role within the helpdesk. In this case we will be creating the "System Administrators" department, this is where the Supreme Admins will be designated. Other specific settings such as SLAs, managers and other email settings can be set up in the departments tab. 
-</p>
-<br />
-<p>
-<img src="https://i.imgur.com/dGK0RVM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="798" height="576" alt="Screenshot 2026-02-10 at 7 14 34 PM" src="https://github.com/user-attachments/assets/0b2224e4-07f3-4404-aad3-599d14470a81" />
+
+</p>To start configuring Roles Navigate to the "Agents" tab and click on "Roles" underneath the "Agents" tab. Enter a role name:
 </p>
 <p>
-After configuring a new department we will set up a new team. Teams allow you to pull agents from different departments you can have an A team that has top technicians from specific departments. For example you can create a help topic that correlates with a product you produce, and assign it to a team of agents that specialize in that particular product. To set up a team go to Agents->Teams. A Level I support team has been created by default, in this example we will create an Online Banking Team. 
-</p>
-<br />
-<p>
-<img width="962" height="746" alt="Screenshot 2026-01-30 at 2 42 05 PM" src="https://github.com/user-attachments/assets/3a4532a0-dfdd-46bb-bc14-f0c89d9e4b0b" />
+<img width="748" height="440" alt="Screenshot 2026-02-10 at 7 19 23 PM" src="https://github.com/user-attachments/assets/68fee407-e417-43dc-90d1-8f58652537fa" />
 
 </p>
 <p>
-Now that we have set up a new team, we will create a new setting that will allow anyone to create tickets. Go to Admin Panel->Settings->User Settings. Under authentication settings, make sure the box that says require registration and login to create tickets is unchecked.
-
-</p>
+In the "Permissions" tab of this role, give this role all permissions in "Tickets", "Tasks", and "Knowledgebase". This will be our "Supreme Admin" Role:
 <br />
-<img width="959" height="710" alt="Screenshot 2026-01-30 at 2 57 01 PM" src="https://github.com/user-attachments/assets/af6499da-dc02-489d-8c24-e1c2f32925cd" />
+<p>
+<img width="963" height="710" alt="Screenshot 2026-02-10 at 7 23 56 PM" src="https://github.com/user-attachments/assets/5a72e582-d81d-41f8-bf89-e00c78a52e3e" />
 
 </p>
 <p>
-Now we are going to create Agents. Agents are the employees of the helpdesk that actually work on solving tickets. Agents are assigned primary departments and given a primary role for tickets sent to their department. Agents can be given access to other departments other than their own, they can also have different roles depending on which department they are in. Permissions, Access, & Teams are be assigned in the Agents tab. 
-</p>
-<br />
-<img width="962" height="676" alt="Screenshot 2026-01-30 at 3 13 30 PM" src="https://github.com/user-attachments/assets/697474b2-c746-4ce3-a2f7-a15a71fbbb71" />
+To set up departments, while still in the "Agents" tab, click on "Departments" located just below the "Agents" tab. Name the department "System Administrators" and create the Department:</p><img width="1032" height="770" alt="Screenshot 2026-02-10 at 7 29 04 PM" src="https://github.com/user-attachments/assets/31746737-20a7-4af4-bf7b-948d3b77810a" />
+
+</p>Next, create a team by selecting the "Teams" tab, while still in the "Agents" tab. Then, name the team "Online Banking" and create team:
+<br /></p>
+<img width="961" height="682" alt="Screenshot 2026-02-10 at 7 31 57 PM" src="https://github.com/user-attachments/assets/f0c32d2c-1afd-4078-9378-78d8fb588c27" />
+
 
 </p>
 <p>
-After creating some agents we will create users. Users are customers that create tickets when they are having issues. A user is identified with their E-mail address. To create a user follow this path Agent Panel->Users->User Directory->Add new. 
+Now, to allow anyone to create tickets, go to the "Settings" Tab, and under "Authentication Settings" make sure that "Require registration and login to create tickets" is unchecked:
+</p>
+<img width="959" height="688" alt="Screenshot 2026-02-10 at 7 35 15 PM" src="https://github.com/user-attachments/assets/bc1e2134-6167-4419-8369-f4d1bab2b926" />
+
+</p>
+<p>
+To create agents (the help desk workers) navigate back to the "Agents" tab and select "Agents" and fill out the name, email, and username:
 </p>
 <br />
 <img width="959" height="372" alt="Screenshot 2026-01-30 at 3 29 25 PM" src="https://github.com/user-attachments/assets/89d57047-ad1f-4703-aa5a-4f737f1a3c5f" />
